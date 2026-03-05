@@ -54,8 +54,8 @@ All arranged in a **modern Material Card layout**.
 
 ## 👨🏾‍💻 Author
 
-**ABDULHAMEED DALHATU SHEHU**
-Data Analyst
+**Abubakar Abdulsalam**
+AI Enthusiast
 
 📍 Ahmadu Bello University, Zaria
 🇳🇬 Nigeria
@@ -65,4 +65,5 @@ Data Analyst
 ## 📜 License
 
 This project is open-source and available for learning and educational purposes.
-"# U21CO1002-BUSINES-CARD" 
+"# U21CO1144-BUSINES-CARD" 
+"# U21CO1144-SMART_BUSINESS_CARD" 
